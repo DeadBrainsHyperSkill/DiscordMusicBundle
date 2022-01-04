@@ -1,2 +1,6 @@
 # DiscordMusicBundle
-GRPC based music bots balancer over IPC socket.
+gRPC based music bots balancer over IPC socket.
+
+## Prerequisites
+
+- Lavalink
