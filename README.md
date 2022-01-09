@@ -23,3 +23,9 @@ gRPC based music bots balancer over IPC socket.
 
 - [.NET Runtime 6 & ASP.NET Core Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Lavalink](https://github.com/freyacodes/Lavalink)
+ 
+## Using
+
+1. [Configure and run Lavalink server](https://github.com/freyacodes/Lavalink#server-configuration) 
+2. [
+     - Second nested list item
