@@ -3,7 +3,9 @@ gRPC based music bots balancer over IPC socket.
 
 ## Features
 
-- Youtube Autocomplete ![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
+- Youtube Autocomplete 
+
+![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
 
 ## Prerequisites
 
