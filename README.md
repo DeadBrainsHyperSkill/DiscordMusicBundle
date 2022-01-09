@@ -2,7 +2,7 @@
 
 gRPC based music bots balancer over IPC socket.
 
-![Instances](https://cdn.discordapp.com/attachments/929788993669845002/929812923256287303/Instances.png)
+![Instances](https://cdn.discordapp.com/attachments/929788993669845002/929814179802669056/Instances.png)
 
 ## Features
 
