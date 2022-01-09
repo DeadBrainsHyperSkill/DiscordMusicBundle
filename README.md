@@ -7,6 +7,15 @@ gRPC based music bots balancer over IPC socket.
 
 ![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
 
+- 7 commands to manage the player
+  - /play
+  - /skip
+  - /stop
+  - /queue
+  - /pause
+  - /resume
+  - /seek
+
 ## Prerequisites
 
 - [.NET Runtime 6 & ASP.NET Core Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
