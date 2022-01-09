@@ -1,7 +1,6 @@
 # DiscordMusicBundle
 gRPC based music bots balancer over IPC socket.
 
-
 ## Features
 
 - 7 Commands
@@ -13,11 +12,9 @@ gRPC based music bots balancer over IPC socket.
   - /resume
   - /seek
 
-
 - Youtube Autocomplete 
 
 ![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
-
 
 ## Prerequisites
 
