@@ -3,11 +3,7 @@ gRPC based music bots balancer over IPC socket.
 
 ## Features
 
-- Youtube Autocomplete 
-
-![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
-
-- 7 commands to manage the player
+- 7 Commands
   - /play
   - /skip
   - /stop
@@ -15,6 +11,10 @@ gRPC based music bots balancer over IPC socket.
   - /pause
   - /resume
   - /seek
+
+- Youtube Autocomplete 
+
+![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
 
 ## Prerequisites
 
