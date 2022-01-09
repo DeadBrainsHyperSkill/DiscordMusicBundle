@@ -1,6 +1,7 @@
 # DiscordMusicBundle
 
-*Initialize bots until you run out of RAM!*
+*Initialize bots until you run out of RAM.*
+
 ![Instances](https://cdn.discordapp.com/attachments/929788993669845002/929812923256287303/Instances.png)
 
 ## Features
