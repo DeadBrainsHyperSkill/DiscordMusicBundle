@@ -9,13 +9,13 @@ gRPC based music bots balancer over IPC socket.
 ## Features
 
 - 7 Commands
-  - /play
-  - /skip
-  - /stop
-  - /queue
-  - /pause
-  - /resume
-  - /seek
+  - `/play`
+  - `/skip`
+  - `/stop`
+  - `/queue`
+  - `/pause`
+  - `/resume`
+  - `/seek`
 
 - Youtube Autocomplete 
 
@@ -23,7 +23,7 @@ gRPC based music bots balancer over IPC socket.
 
 - Auto Disconnect
  
-  - Bot leaves the voice channel if there are no users or the queue is empty.
+  - *Bot leaves the voice channel if there are no users or the queue is empty.*
 
 ## Prerequisites
 
