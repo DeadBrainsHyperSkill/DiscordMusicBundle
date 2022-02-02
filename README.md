@@ -23,7 +23,7 @@ gRPC based music bots balancer over IPC socket.
 
 - Auto Disconnect
  
-  - *Bot leaves voice channel if there are no users or the queue is empty.*
+  - *Bot leaves the voice channel if there are no users or the queue is empty.*
 
 ## Prerequisites
 
