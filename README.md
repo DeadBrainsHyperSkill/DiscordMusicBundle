@@ -4,7 +4,7 @@ gRPC based music bots balancer over IPC socket.
 
 *Initialize bots until you run out of RAM.*
 
-![Instances](https://cdn.discordapp.com/attachments/929788993669845002/929814179802669056/Instances.png)
+![Instances](https://cdn.discordapp.com/attachments/997659771475869696/997676934785941544/Instances.png)
 
 ## Features
 
@@ -19,7 +19,7 @@ gRPC based music bots balancer over IPC socket.
 
 - Youtube Autocomplete 
 
-![Youtube Autocomplete](https://cdn.discordapp.com/attachments/929788993669845002/929789151505690624/Youtube_Autocomplete.gif)
+![Youtube Autocomplete](https://cdn.discordapp.com/attachments/997659771475869696/997676956592132166/Youtube_Autocomplete.gif)
 
 - Auto Disconnect
  
@@ -32,6 +32,5 @@ gRPC based music bots balancer over IPC socket.
  
 ## Setup
 
-1. [Configure and run Lavalink server](https://github.com/freyacodes/Lavalink#server-configuration) 
-2. [
-     - Second nested list item
+1. [Configure and run Lavalink server](https://github.com/freyacodes/Lavalink#server-configuration)
+...
